@@ -2,8 +2,8 @@
 $name_err = "";
 $message = "";
 $servername = "pythondb.cw9xyd9ybmy0.us-east-1.rds.amazonaws.com";
-$username = "root";
-$password = "khalids226";
+$username = "admin";
+$password = "";
 $dbname = "pythondb";
 //mysql -h pythondb.cw9xyd9ybmy0.us-east-1.rds.amazonaws.com -port 3306 -u root -p
 
